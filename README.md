@@ -1,2 +1,4 @@
 # Complex-Contagion
-Implementation of Watts threshold model 
+
+In this repository you can find the final report of my group for the course "Physics of complex networks: structure and dynamics" held in Spring 2023 at the Master of Physics of data in Pauda.
+In particular I worked on the complex contagion problem, reproducing the results of the Watts model.
